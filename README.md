@@ -20,4 +20,6 @@
 
 - [ ] Convert to video
 
+- [ ] WaterMark
+
 🚧 Wait..Work in progress...
