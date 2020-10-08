@@ -6,4 +6,18 @@
 
 > A Telegram multi purpose bot based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
+## Features
+
+- [ ] extract
+
+- [ ] SpeedTest
+
+- [ ] Rename File
+
+- [ ] Screenshot
+
+- [ ] Files to Link
+
+- [ ] Convert to video
+
 🚧 Wait..Work in progress...
