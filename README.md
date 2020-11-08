@@ -8,7 +8,7 @@
 
 ## Features
 
-- [×] media info
+- [x] media info
 
 - [ ] SpeedTest
 
