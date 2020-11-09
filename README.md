@@ -8,7 +8,7 @@
 
 ## Features
 
-- [ ] extract
+- [x] media info
 
 - [ ] SpeedTest
 
