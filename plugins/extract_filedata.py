@@ -14,7 +14,7 @@ async def _(c: MultiDxBot, m: Message):
         download_location = Config.DOWNLOAD_LOCATION
         msg_id = m.reply_to_message.message_id
         msg = await m.reply_text("Downloading your file", reply_to_message_id=m.message_id)
-        file_location = await download_file(download_location, msg_id, m.chat.id, c)
+        file_location = await download_file(download_location, msg_id, msg, m.chat.id, c)
         if file_location is None:
             await msg.edit("ERROR: Downloading failed")
         else:
